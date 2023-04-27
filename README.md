@@ -33,6 +33,7 @@ If you're interested in connecting with me further, please feel free to check ou
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="https://commons.wikimedia.org/wiki/File:Faenza-text-x-java.svg" style="padding-right:10px;" />
 
 

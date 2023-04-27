@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 
 Hello and welcome to my Github profile! My name is Wesley Perrang, and I'm currently studying at Wethinkcode. I have a passion for software development, and I hope you'll see that reflected in the projects I've shared here on Github. I'm always looking for feedback, so please don't hesitate to leave a comment or get in touch with me.
@@ -22,6 +22,7 @@ Hello and welcome to my Github profile! My name is Wesley Perrang, and I'm curre
 If you're interested in connecting with me further, please feel free to check out my LinkedIn profile. I'm always happy to chat with fellow developers and learn from others in the community. Thank you for visiting my profile, and I hope you have a great day!
 
 - 🌱 I’m currently learning everything 🤣
+- ⚡ Fun fact: I like to workout and be active 🏃‍♂️ , even if I am a developer 💻
 
 
 ### Connect with me:

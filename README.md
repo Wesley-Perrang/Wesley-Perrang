@@ -26,5 +26,6 @@ If you're interested in connecting with me further, please feel free to check ou
 
 ### Connect with me:
 
-(./linkedin-light.svg)](https://www.linkedin.com/in/wesley-perrang-b26637225/)
-(./linkedin-dark.svg)](https://www.linkedin.com/in/wesley-perrang-b26637225/)
+[![website](./linkedin-light.svg)](https://www.linkedin.com/in/wesley-perrang-b26637225/)
+[![website](./linkedin-dark.svg)](https://www.linkedin.com/in/wesley-perrang-b26637225/)
+&nbsp;&nbsp;

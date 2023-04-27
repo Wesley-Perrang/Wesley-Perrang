@@ -35,7 +35,7 @@ If you're interested in connecting with me further, please feel free to check ou
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Faenza-text-x-java.svg" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
+<img align="left" alt="Terminal" width="26px" src="./terminal-light.svg" />
+<img align="left" alt="Terminal" width="26px" src="./terminal-dark.svg" />
 
 

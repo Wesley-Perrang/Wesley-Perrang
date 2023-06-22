@@ -36,7 +36,7 @@ If you're interested in connecting with me further, please feel free to check ou
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" style="padding-right:10px;" />
 <a href="https://brandlogos.net/java-eps-40925.html">Confluence icon logo</a>
-<img align="left" alt="Java" width="26px" src="https://brandlogos.net/java-eps-40925.html" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="./java.svg" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" style="padding-right:10px;" />
 
 

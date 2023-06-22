@@ -29,7 +29,7 @@ If you're interested in connecting with me further, please feel free to check ou
 
 [![website](./linkedin-light.svg)](https://www.linkedin.com/in/wesley-perrang-b26637225/#gh-light-mode-only)
 [![website](./linkedin-dark.svg)](https://www.linkedin.com/in/wesley-perrang-b26637225/#gh-dark-mode-only)
-[![website](./Java.svg)](https://www.linkedin.com/in/wesley-perrang-b26637225/#gh-dark-mode-only)
+[![website](./java.svg)](https://www.linkedin.com/in/wesley-perrang-b26637225/#gh-dark-mode-only)
 
 ### Languages and Tools:
 

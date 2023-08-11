@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <img src = "./github-header-image-c.png" height="220" width="210"/>
   </p> -->
 
-<img align="right" src="./github-header-image-c.png">
+<img align="right" src="./github-header-image-c.png" height="220" width="210">
 
 Hello and welcome to my Github profile! My name is Wesley Perrang, and I'm currently studying at Wethinkcode. I have a passion for software development, and I hope you'll see that reflected in the projects I've shared here on Github. I'm always looking for feedback, so please don't hesitate to leave a comment or get in touch with me.
 

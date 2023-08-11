@@ -1,4 +1,4 @@
-# Hi there , I'm Wesley👋
+# Hi there👋
 
 ![Header](./github-header-image.png)
 

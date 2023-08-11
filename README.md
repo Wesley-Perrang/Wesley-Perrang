@@ -17,13 +17,11 @@ Here are some ideas to get you started:
 
 -->
 <p>
-  <p align="right">
+<!--   <p align="right">
     <img src = "./github-header-image-c.png" height="220" width="210"/>
-  </p>
+  </p> -->
 
-<img align="left" src="https://cloud.githubusercontent.com/assets/532272/21507867/3376e9fe-cc4a-11e6-9350-7ec4f680da36.gif">
-
-some text aligned to the right of the image
+<img align="right" src="./github-header-image-c.png">
 
 Hello and welcome to my Github profile! My name is Wesley Perrang, and I'm currently studying at Wethinkcode. I have a passion for software development, and I hope you'll see that reflected in the projects I've shared here on Github. I'm always looking for feedback, so please don't hesitate to leave a comment or get in touch with me.
 

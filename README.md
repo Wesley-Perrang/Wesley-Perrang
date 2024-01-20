@@ -42,6 +42,7 @@ If you're interested in connecting with me further, please feel free to check ou
 <img align="left" alt="Java" width="26px" src="./java.svg" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" style="padding-right:10px;" />
 
+
 ### 🏆 My GitHub Stats: 
 
   <p align="left">

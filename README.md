@@ -46,7 +46,7 @@ If you're interested in connecting with me further, please feel free to check ou
 
 <br>
 <a href="https://github.com/Wesley-Perrang/github-readme-stats"> 
-<img src="https://github-readme-stats.vercel.app/api?username=Wesley-Perrang&show_icons=true&theme=dark"
+<img src="https://github-readme-stats.vercel.app/api?username=Wesley-Perrang&show_icons=true&theme=dark">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley-Perrang&theme=dark" width=400 height=340>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wesley-Perrang&theme=dark" width=400 height=340>
     
